@@ -51,8 +51,7 @@ I specialize in turning raw data into actionable insights and teaching data enth
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/mfon-nsimah-11846bb8)
-- 🌐 [TechDucate Academy]
 
 ---
 
-> "Learning data shouldn’t feel intimidating. It should feel empowering."
+> "...I equip and offer resources for excellent productivity..."
