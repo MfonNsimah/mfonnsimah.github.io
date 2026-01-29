@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Mfon Nsimah
 
-### Data Analytics Educator | Curriculum Developer | Community Builder
+### Data Analyst, Data Analytics Educator | Curriculum Developer | Community Builder
 **Helping beginners move from confusion to clarity through data storytelling.**
 
 ---
@@ -12,8 +12,8 @@ I specialize in turning raw data into actionable insights and teaching others th
 
 - 🎓 **Lead Instructor** at TechDucate Academy.
 - 🌍 **Community Ambassador** at Data Science Nigeria (DSN).
-- [span_0](start_span)[span_1](start_span)[span_2](start_span)🛠️ **Technical Supporter** for 3MTT Nigeria (Cross River State), supporting 5,000+ fellows[span_0](end_span)[span_1](end_span)[span_2](end_span).
-- [span_3](start_span)[span_4](start_span)📊 **Curriculum Developer** focused on high-impact, learner-centered models[span_3](end_span)[span_4](end_span).
+🛠️ **Technical Supporter** for 3MTT Nigeria (Cross River State), supporting 5,000+ fellows
+📊 **Curriculum Developer** focused on high-impact, learner-centered models[span_3](end_span)[span_4](end_span).
 
 ---
 
