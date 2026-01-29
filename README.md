@@ -2,7 +2,6 @@
 
 # 👋 Hi, I’m Mfon Nsimah
 
-[Image](Head_Shot_2025.jpg)
 
 ### Data Analyst | Data Analytics Educator | Curriculum Developer | Community Builder
 **Helping organisations, individuals and data enthusiasts move from confusion to clarity through data and storytelling.**
