@@ -41,7 +41,7 @@ A beginner-friendly elementary tutorial for mastering DAX and data modeling.
 
 ---
 
-
+[Power BI](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=55b122fe-b3e0-4411-b1b6-1cbb3bd5a01d&pbi_source=mobile_android&groupObjectId=625c99c5-0955-4ec9-b13d-e9f87cf054b4&reportObjectId=52a94d70-8912-40f6-828f-fc5b87fa3c88&reportPage=03c1621616329de1303b&bookmarkGuid=b18a972d-a6ab-46b5-8570-a583f975720d&fullScreen=0)
 
 ---
 
