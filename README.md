@@ -32,15 +32,6 @@ I specialize in turning raw data into actionable insights and teaching data enth
 ## 📊 Featured Projects
 > I build hands-on projects designed to teach core analytics concepts using realistic datasets.
 
-### 1. [Beginner Data Analytics Series](https://github.com/mfonnsimah/beginner-data-analytics)
-A collection of end-to-end projects covering Excel fundamentals, SQL querying, and Power BI reporting.
-
-### 2. [SQL Fundamentals for Beginners](https://github.com/mfonnsimah/sql-fundamentals)
-Structured, practice-focused notes and exercises designed for absolute beginners.
-
-### 3. [Power BI DAX Guide](https://github.com/mfonnsimah/power-bi-dax)
-A beginner-friendly elementary tutorial for mastering DAX and data modeling.
-
 ---
 
 [Pixa Legacy](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=55b122fe-b3e0-4411-b1b6-1cbb3bd5a01d&pbi_source=mobile_android&groupObjectId=625c99c5-0955-4ec9-b13d-e9f87cf054b4&reportObjectId=52a94d70-8912-40f6-828f-fc5b87fa3c88&reportPage=03c1621616329de1303b&bookmarkGuid=b18a972d-a6ab-46b5-8570-a583f975720d&fullScreen=0)
