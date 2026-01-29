@@ -12,8 +12,8 @@ I specialize in turning raw data into actionable insights and teaching others th
 
 - 🎓 **Lead Instructor** at TechDucate Academy.
 - 🌍 **Community Ambassador** at Data Science Nigeria (DSN).
-🛠️ **Technical Supporter** for 3MTT Nigeria (Cross River State), supporting 5,000+ fellows.
-📊 **Curriculum Developer** focused on high-impact, learner-centered models.
+- 🛠️ **Technical Supporter** for 3MTT Nigeria (Cross River State), supporting 5,000+ fellows.
+- 📊 **Curriculum Developer** focused on high-impact, learner-centered models.
 
 ---
 
